@@ -1,12 +1,13 @@
- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CADBCB,50:8FAF91,100:527B60&height=200&section=header&text=Welcome%20to%20my%20Forest!&fontSize=34&fontColor=FFFFFF&fontAlignY=40" width="100%" />
+<div align="center">
 
-<img src="./assets/Totoro%20Sleeping.gif" width="220" alt="Totoro Sleeping" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CADBCB,50:8FAF91,100:527B60&height=160&section=header" width="100%" />
+
+<img src="./assets/totoro-banner.gif" width="100%" alt="Totoro Sleeping in the Forest" />
 
 # Hello, I'm Flow 🌱
 
-### Aspiring Developer | IT Student
+### Information Technology Student | Aspiring Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&pause=1200&color=527B60&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+forest!;Learning+something+new+every+day;Growing+at+my+own+pace;Just+keep+flowing+%F0%9F%8C%B1" />
 
@@ -23,12 +24,16 @@
 
 Hello! I'm Flow. Welcome to my little green world!
 
-- 🎓 Information Technology Student
+I'm an Information Technology student at **Maejo University, Faculty of Science**.
+
+I enjoy learning new things, exploring technology, and creating projects.
+
+- 🎓 Studying Information Technology at Maejo University
 - 💻 Interested in Web Development
-- 🎨 Interested in Graphic Design
+- 🎨 Interested in Graphic Design and UI Design
 - 🧪 Interested in Software Testing
-- 🎮 Hobbies: Gaming, Music and Coding
-- 🌱 Always learning and exploring new things
+- 🎮 I enjoy gaming, listening to music, and coding
+- 🌱 Always learning and improving myself
 
 ## 🌿 Tech Stack
 
@@ -44,49 +49,30 @@ Hello! I'm Flow. Welcome to my little green world!
 
 A travel planning web application developed as part of a university project.
 
-**Technologies used:**
+This project allows users to create travel plans, manage trips, and organize travel activities.
+
+**Technologies used**
+
 - Frontend: Next.js
 - Backend: Spring Boot
 - Database: MySQL
 
-🔗 [View Travel-Project](https://github.com/sarangiluv/Travel-Project)
+🔗 [Explore my Travel-Project](https://github.com/sarangiluv/Travel-Project)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sarangiluv&show_icons=true&theme=vue&hide_border=true&rank_icon=github" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarangiluv&layout=compact&theme=vue&hide_border=true" height="165" />
-
-</div>
-
-## 🌱 My Coding Journey
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarangiluv&bg_color=ffffff&color=527B60&line=8FAF91&point=527B60&area=true&hide_border=true" width="100%" />
-
-</div>
+---
 
 ## 🌼 A Little Reminder
 
 <div align="center">
 
-<img src="./assets/kikis%20delivery%20service%20gigi%20GIF.gif" width="200" alt="Kiki and Gigi" />
-
 ### Keep learning. Keep growing. Keep flowing.
 
-*Every little step counts.*
-
-</div>
-
----
-
-<div align="center">
+<img src="./assets/kiki-gigi.gif" width="100%" alt="Kiki and Gigi" />
 
 **Thanks for visiting my little forest! 🌿**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CADBCB,50:8FAF91,100:527B60&height=110&section=footer" width="100%" />
+*See you on my next adventure.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CADBCB,50:8FAF91,100:527B60&height=120&section=footer" width="100%" />
 
 </div>
