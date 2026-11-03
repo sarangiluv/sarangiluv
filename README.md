@@ -47,15 +47,24 @@ I enjoy learning new things, exploring technology, and creating projects.
 
 ### ✈️ Travel-Project
 
-A travel planning web application developed as part of a university project.
+**A Personal Learning Project**
 
-This project allows users to create travel plans, manage trips, and organize travel activities.
+A full-stack web application developed as part of my university learning journey. This project helps me practice web development, understand how frontend and backend systems work together, and improve my programming skills.
 
-**Technologies used**
+**✨ What I Learned**
+- Building user registration and login
+- Creating and managing travel plans
+- Developing frontend pages with Next.js
+- Connecting frontend and backend using REST APIs
+- Managing data with MySQL
+- Practicing CRUD operations (Create, Read, Update, Delete)
 
-- Frontend: Next.js
-- Backend: Spring Boot
-- Database: MySQL
+**🛠️ Technologies Used**
+- **Frontend:** Next.js, TypeScript
+- **Backend:** Java, Spring Boot
+- **Database:** MySQL
+
+🌱 *This project is still a learning experience, and I hope to improve and expand it with more features in the future.*
 
 🔗 [Explore my Travel-Project](https://github.com/sarangiluv/Travel-Project)
 
