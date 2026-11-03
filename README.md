@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CADBCB,50:8FAF91,100:527B60&height=160&section=header" width="100%" />
 
-<img src="./assets/totoro-banner.gif" width="100%" alt="Totoro Sleeping in the Forest" />
+<img src="./assets/totoro-sleeping.gif" width="100%" alt="Totoro Sleeping in the Forest" />
 
 # Hello, I'm Flow 🌱
 
